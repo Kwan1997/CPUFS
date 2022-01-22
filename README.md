@@ -5,7 +5,7 @@ Codes for reproducing our paper *"Unsupervised Feature Selection via Graph Regul
 
 Required packages:
 - **MATLAB Tensor Toolbox** (downloadable from [here](https://www.tensortoolbox.org/)),
-- **Statistics and Machine Learning Toolbox** (built-in), and
-- **Parallel Computing Toolbox** (built-in).
+- **MATLAB Statistics and Machine Learning Toolbox** (built-in), and
+- **MATLAB Parallel Computing Toolbox** (built-in).
 
 Hope this helps. 😁
